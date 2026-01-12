@@ -1,0 +1,8 @@
+version = 1
+SPDX-PackageName = "Railway Control"
+SPDX-PackageSupplier = "Zoe Nickson"
+[[annotations]]
+path = ["docs/figures/**/*"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>"
+SPDX-License-Identifier = "CC-BY-SA-4.0"

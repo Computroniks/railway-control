@@ -1,5 +1,16 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
+# SPDX-FileCopyrightText: 2025 Github Inc.
+# SPDX-License-Identifier: CC0-1.0
+
+
+#############
+## Draw.io ##
+#############
+
+*.bkp
+
+###########
+## KiCAD ##
+###########
 
 # Temporary files
 *.000
