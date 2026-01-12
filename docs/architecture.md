@@ -5,6 +5,6 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Architecture
 
-[Diagram showing a control system with a Control Panel, Control Unit,
+![Diagram showing a control system with a Control Panel, Control Unit,
 Track Relay, Point Controller, Motor Driver, and E-Stop Button connected
 via RS485.](figures/architecture.svg)
