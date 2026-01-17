@@ -6,3 +6,31 @@ path = ["docs/figures/**/*"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["**/.mxproject"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["**/CMakePresets.json"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["**/firmware.ioc"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>"
+SPDX-License-Identifier = "CC0-1.0"
+
+# STM32 Drivers
+[[annotations]]
+path = ["motor_driver/firmware/Drivers/CMSIS/**/*"]
+precedence = "aggregate"
+SPDX-License-Identifier = "Apache-2.0"
+[[annotations]]
+path = ["motor_driver/firmware/Drivers/STM32C0xx_HAL_Driver/**/*"]
+precedence = "aggregate"
+SPDX-License-Identifier = "BSD-3-Clause"

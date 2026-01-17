@@ -7,4 +7,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ![Diagram showing a control system with a Control Panel, Control Unit,
 Track Relay, Point Controller, Motor Driver, and E-Stop Button connected
-via RS485.](figures/architecture.svg)
+via CAN.](figures/architecture.svg)
+
+## Control Bus
+
+The control bus uses CAN for communication. Each board on the bus
+must be configured using the USB interface to set a unique address.
