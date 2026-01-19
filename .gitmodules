@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2026 Zoe Nickson <zoe.nickson@sidingsmedia.com>
+# SPDX-License-Identifier: CC0-1.0
+
+[submodule "common/third-party/drivers/stm32/stm32f4xx-hal-driver"]
+	path = common/third-party/drivers/stm32/stm32f4xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git
+[submodule "common/third-party/drivers/stm32/stm32f1xx-hal-driver"]
+	path = common/third-party/drivers/stm32/stm32f1xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32f1xx-hal-driver.git
+[submodule "common/third-party/drivers/stm32/cmsis-device-f4"]
+	path = common/third-party/drivers/stm32/cmsis-device-f4
+	url = https://github.com/STMicroelectronics/cmsis-device-f4.git
+[submodule "common/third-party/drivers/stm32/cmsis-device-f1"]
+	path = common/third-party/drivers/stm32/cmsis-device-f1
+	url = https://github.com/STMicroelectronics/cmsis-device-f1.git
+[submodule "common/third-party/drivers/stm32/cmsis-core"]
+	path = common/third-party/drivers/stm32/cmsis-core
+	url = https://github.com/STMicroelectronics/cmsis-core.git
+[submodule "common/third-party/drivers/stm32/stm32c0xx-hal-driver"]
+	path = common/third-party/drivers/stm32/stm32c0xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32c0xx-hal-driver.git
+[submodule "common/third-party/drivers/stm32/cmsis-device-c0"]
+	path = common/third-party/drivers/stm32/cmsis-device-c0
+	url = https://github.com/STMicroelectronics/cmsis-device-c0.git
