@@ -1,5 +1,6 @@
-// SPDX-FileCopyrightText: 2025 STMicroelectronics
-// SPDX-License-Identifier: LicenseRef-ST
+/* SPDX-FileCopyrightText: 2025 STMicroelectronics
+ * SPDX-License-Identifier: LicenseRef-ST
+ */
 
 /*
 ******************************************************************************
