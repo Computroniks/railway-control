@@ -22,3 +22,6 @@
 [submodule "common/third-party/drivers/stm32/cmsis-device-c0"]
 	path = common/third-party/drivers/stm32/cmsis-device-c0
 	url = https://github.com/STMicroelectronics/cmsis-device-c0.git
+[submodule "common/third-party/nanopb"]
+	path = common/third-party/nanopb
+	url = https://github.com/nanopb/nanopb.git
