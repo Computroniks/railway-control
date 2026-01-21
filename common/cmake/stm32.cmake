@@ -69,6 +69,7 @@ set(DRIVER_INCLUDE_DIR
     ${DEVICE_HAL_PATH}/Inc/Legacy
     ${DEVICE_CMSIS_PATH}/Include
     ${DRIVER_BASE_DIR}/cmsis-core/Include
+    ${CMAKE_CURRENT_LIST_DIR}/../sys/include
 )
 
 
